@@ -1,0 +1,22 @@
+{
+  "name": "kat-sohil-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katpas/kat-sohil-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katpas/kat-sohil-db/issues"
+  },
+  "homepage": "https://github.com/katpas/kat-sohil-db#readme",
+  "devDependencies": {
+    "redis": "^2.1.0"
+  }
+}
